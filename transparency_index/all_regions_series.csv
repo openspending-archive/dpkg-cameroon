@@ -1,0 +1,1912 @@
+Place,Question,Comments,Answer ,Points earned,Possible points,Weight,Max possible
+N'oundere III '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,1,,,
+,,3.  Rapport en Milieu d’année,,,,1,
+,,4.  Rapport de fin d’année ,,,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,4
+,,d.     Entre 75% –100% ,,0,1,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,4
+,,d.     Entre 75% –100% ,,0,1,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,3,0,3
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,3,0,3
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,1,3,3,0,3
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,1,3,3,0,3
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,3,0,3
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,1,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,4,4,0,4
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,3,0,3
+,,d.  Le rapport n'est pas publié. ,,0,2,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,3,0,3
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,2,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,3,0,3
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,2,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Nyambaka '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,1,,,,
+,,4.  Rapport de fin d’année ,1,,,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,1,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,1,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,1,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,1,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,,See c.,,,
+,,b.  Non ,1,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Banyo '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,,1,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,1,1,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,1,1,1,1
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,1,1,1,1
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,0,0,0
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,1,1,0
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,0,0,0
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,1,0
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",1,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,La commune n'a recu aucune donnation ,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,1,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,1,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Bankim '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,1,,,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,,,1,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,0,1,0
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,1,0,1,0
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,1,0,1,0
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,0,0,0
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,0,1,0
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,0,0,0
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,,1
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,1,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Ngaroundal '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,,1,
+,,3.  Rapport en Milieu d’année,1,,,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,1,1,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,1,,1,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,1,1,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,,1,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,,1,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,L'incivisme fiscal; manque de moyens de locomotion pour le …(???),,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,86.16.%,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,1,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,1,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,1,Le rapport est publie auf fin d'annee,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,Les rapports administratif sont publies deux mois apres l'exercise budgetaire ecoule ,,,
+Tignere '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,,1,
+,,3.  Rapport en Milieu d’année,,,1,,
+,,4.  Rapport de fin d’année ,,,,1,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,,0,1,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,1,,1,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,1,,1,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,0,0,0
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,0,0,0
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,1,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Jamais,,,
+Tibati '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,,1,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,,1,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,1,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,CF. Pieces annexes edictes pour accompagnement a l'approbation des budgets et comptes administratifs de gestion (Sommier des batiments et etat de bien acquis).,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,"Tous les dons sont pris en charge en comptabilite - materis pares leur reception par deliberation du conseil municipal, qu'ils soient en nature ou en especes.",,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,1,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,Vanant en appui direct a la Commune ,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",Rapport presente sur les projets d'interet communautaires ou general.,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Le plan communal de developpement elabore de manier participative et adopte pare le conseil municipal est la source de budgetisation des projets annuels de cette Commune ,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,"Rencontres et reunions avec autorites administratives, comites de concertation des villages, autorites traditionnelles et religieuses et leaders d'associations concourant au developpement. ",,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Par affichage apres approbation et/ou solicitation ,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,Par affichage apres approbation et/ou solicitation ,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Audit depend de structure competentes de l'Etat sous forme de controle ,,,
+Dir '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,,1,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,,,,1,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,1,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,1,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,,1,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Galim Tignere '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,,,
+,,2.  Résumé du Budget ,,1,,,
+,,3.  Rapport en Milieu d’année,,,,,
+,,4.  Rapport de fin d’année ,,1,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,0,1,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,0,0,0,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,0,0,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,0,0,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,1,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,1,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,Transferts competence plus prets,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,1,2,2,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,Transferts competence plus prets,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",1,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,1,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Kontcha '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,1,,,
+,,4.  Rapport de fin d’année ,,1,,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,0,0,1,1,0
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,0,0,,0,0
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,0,0,1,0,0
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,1,0,0
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,1,0,0
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,1,0,0
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,0,0
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,1,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,1,La situation …???... Par le comptable (difficult to read),,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,La situation detaille accompagne le Budget,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,1,Le Pau (???) de campagne accompagnie le Budget ,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",Chaque conseiller dispose un avant projet de Budget et toutes les deliberations concernant les realisations Budgetaires ,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,PAI (???) …or PDL (???),,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,On dit se refere aux CA du Maire,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,1,Lors de la session du Compte Ad. ,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,Pas applicable ,,,
+Martap '11,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,1,,,,
+,,3.  Rapport en Milieu d’année,,1,,,
+,,4.  Rapport de fin d’année ,1,,,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,1,1,0
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,0,0,0,0,0
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,1,1,0,0
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,0,0,0
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,1,1,0
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,0,0,0
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,1,0
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,Les partenaires Feirom et PNUD (??) - il y a une liste des biens de la commune detaille qui accompagne le budget,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,Les partenaires des communes et PNUD (??),,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,Le plan des campagnes detaille et chiffre accompagne le Budget,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Son presentes pour les ecoles et forages. ,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",En un mot chaque conseiller dispose l'avant projet de Budget et toutes les deliberations concernant les realisations de l'exercise.,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,"Plan de Developpement local ete etabli par PNDP, les conseillers municipaux et les populations, elites.",,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,Le rapport est presente lors du vote du Compte Administratif ,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,Le rapport est presente au plus tard le Mars de l'annnee suivante,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,,,,
+Mayo-Baleo,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,,1,
+,,3.  Rapport en Milieu d’année,1,,,,
+,,4.  Rapport de fin d’année ,,,,1,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,1,1,1,1
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,1,1,1,1,1
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,1,1,1
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,Incivisme fiscal,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,Elles sont inscrites au budget et justifies,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,Ils sont inscrits et detailles,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,1,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,Fournis par les consultants,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Reactualisees par an,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,1,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Tout le conseil,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,1,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,1,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,"Associations, quartier, villages, elites",,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,Un mois/chaque evenement ,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,1 mois (chaque evenement),,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Mbe '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,1,,,
+,,2.  Résumé du Budget ,,1,,,
+,,3.  Rapport en Milieu d’année,,,,,
+,,4.  Rapport de fin d’année ,,,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,1,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,,,1,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,1,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,Les comptes n'ont jamais fait l'objet d'un audit,,,
+Ngaoundere I '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,,,
+,,3.  Rapport en Milieu d’année,,,,,
+,,4.  Rapport de fin d’année ,,,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,1,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Ngaoundere II '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,1,,,
+,,4.  Rapport de fin d’année ,,1,,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,0,1,0
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,1,0,1,0
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,1,0,1,0
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,0,0,0,0,0
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,1,0,1,0
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,0,0,0,0,0
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,0,0,1,0
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",1,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,1,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,1,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,,,,
+Ngan-ha '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,1,,,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,,,1,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,1,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,1,Seules les dettes sont presentes ,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,1,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,1,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,L'audit est presente a travers le compte administratif quie est vote 3 mois apres la find de l'exercise,,,
+Ngaoui '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,,,
+,,3.  Rapport en Milieu d’année,,,,,
+,,4.  Rapport de fin d’année ,,,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,La hausse du taux des revenues realises est lie a dotation generale de lEtat et de l'augmentation de CAC,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,1,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,1,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,Blank,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Mayo-Darle '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,,1,,
+,,4.  Rapport de fin d’année ,,,1,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,1,1,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,1,1,1,1,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,1,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,Blank,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,Blank,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,,0,0,0,0
+,Blank,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,Blank,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,Blank,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Djohong '10,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,1,,
+,,2.  Résumé du Budget ,,,1,,
+,,3.  Rapport en Milieu d’année,,1,,,
+,,4.  Rapport de fin d’année ,,1,,,
+,,5.  Rapport d’audit ,1,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,1,1,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,1,1,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,1,1,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,1,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,RAS,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,1,RAS,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",1,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,RAS,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",1,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,1,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,1,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,1,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,1,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,1,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,1,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,1,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,1,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,1,2 Mois apres la fin de l'annee a travers le compte administratif ,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,1,,,,
+Belel,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,,,
+,,2.  Résumé du Budget ,,,,,
+,,3.  Rapport en Milieu d’année,,,,,
+,,4.  Rapport de fin d’année ,,,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+Meiganga,1,"Documents du budget disponibles.Pour chaque type de document (1-5), choisissez la réponse adéquate (I, II, II or IV). Choisissez seulement une réponse par document en cochant la case qui correspond à la réponse. ",,,,,
+,,Type de document,I. Non produit,II. Produit mais non disponible au public,"III. Produit et disponible au public, mais seulement sur demande",IV. Produit et distribué au public,
+,,1.  Budget adopté ,,,,,
+,,2.  Résumé du Budget ,,,,,
+,,3.  Rapport en Milieu d’année,,,,,
+,,4.  Rapport de fin d’année ,,,,,
+,,5.  Rapport d’audit ,,,,,
+,2,"Pour les rapports de budget qui sont produits et diffusés au public, quelles mesures sont prises pour diffuser ces rapports et pour favoriser l'intérêt du public? Pour chaque rapport produit, répondez  aux questions 1-7 et marquez les cases des colonnes I.-V. « Oui » ou « Non ».",,,,,
+,,,I. Budget adopté,II. Résumé du Budget,III. Rapport en Milieu d’année,IV. Rapport de fin d’année,V. Rapport d’audit
+,,1. Est-ce que la date de sortie est connue au moins un mois à l'avance ?,,,,,
+,,2. Est-ce que un préavis de la présentation est envoyés aux utilisateurs/ médias ?,,,,,
+,,3.  Est-ce que le document est présenté au public le même jour que la présentation officielle aux médias?,,,,,
+,,4.  Est-ce que le document est disponible sur Internet gratuitement?,,,,,
+,,5.  Est –ce que des copies imprimées sont disponibles gratuitement ?,,,,,
+,,6.  Est-ce que une conférence de presse est tenue pour discuter de la parution du document?,,,,,
+,,7.   Est-ce que le document est diffusé par des conseillers municipaux?,,,,,
+,3,Quel est le taux des revenus réalisés par rapport aux revenus estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,Autre (svp produire un commentaire). Commentaire :,,,,,
+,4,Quel est le taux des dépenses réalisés par rapport aux dépenses estimés pendant le dernier exercice? Veuillez se référer aux comptes administratifs de l'année dernière pour répondre à cette question.,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Entre 75% –100% ,,0,0,0,0
+,,e.     Plus de 100% ,,0,0,0,0
+,,f.      Autre (svp produire un commentaire). Commentaire :,,,,,
+,5,"Est-ce que les documents de budget présentent des informations sur les actifs financiers  (par exemple, les dépôts en banque, dette, parts, etc.) détenu par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé, avec quelques détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs financiers n'est pas présentée. ",,0,0,0,0
+,,d.  Pas applicable/autre (svp produire un commentaire). Commentaire:,,,,,
+,6,"Est-ce que les documents de budget présentent des informations sur les actifs non financiers (par exemple  bâtiments, véhicules, etc.) détenus par le Conseil municipal? ",,,,,
+,,"a.  Oui, l'information exhaustive sur les actifs non financiers est présentée, y compris une liste des capitaux, une discussion de leur but, et une évaluation de leur valeur marchande. ",,0,0,0,0
+,,"b.  Oui, l'information est présentée, accentuant l'information clé,  avec quelques  détails. ",,0,0,0,0
+,,"c.  Non, l'information sur les actifs non financiers n'est pas présentée. ",,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire: ,,,,,
+,7,"Les documents de budget fournissent-ils des détails sur les sources de l'aide des donateurs, tant financier que matériels (par exemple, le matériel fourni, infrastructure établie, etc.)? ",,,,,
+,,a.  Toutes les sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,b.  Quelques sources d'assistance des donateurs sont identifiées individuellement. ,,0,0,0,0
+,,c.  Aucune source d'assistance des donateurs n'est identifiée individuellement. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,8,"Les documents de budget (comme le budget ou le compte rendu de la session budgétaire ou de la session administrative de compte) présentent- t-ils  des données non financières, telles que le nombre de bénéficiaires, des programmes de dépense? ",,,,,
+,,a.  Des données non financières sont présentées pour tous les programmes. ,,0,0,0,0
+,,b.  Des données non financières sont présentées pour quelques programmes. ,,0,0,0,0
+,,c.  Aucune donnée non financière n'est présentée. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire: ,,,,,
+,9,"Les documents de budget contiennent-ils des indicateurs de performances (par exemple nombre de kilomètres des routes construites, nombre de salles de classe construites, nombre de bureaux d'école fournis, etc.) pour des programmes de dépense? ",,,,,
+,,a.  Des indicateurs de performance sont présentés pour tous les programmes. ,,0,0,0,0
+,,b.  Des indicateurs de performance sont présentés pour quelques programmes. ,,0,0,0,0
+,,c.  Aucun indicateur de performance n'est présenté. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,10,"Est ce que le Conseil municipal publie la présentation non technique destinée  aux citoyens  qui décrit le budget et ses propositions (par exemple un sommaire de budget, une version citoyen-amicale du budget, etc.)? ",,,,,
+,,a. Oui,,0,0,0,0
+,,b. Non,,0,0,0,0
+,,"Si oui, quel genre d'informations la présentation non technique inclut-elle? Svp commenter:",,,,,
+,11,Quel pourcentage de membres de Conseils municipaux participent ou sont consultés réellement dans le processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.     Moins de 25% ,,0,0,0,0
+,,b.     Entre 25-50% ,,0,0,0,0
+,,c.     Entre 50-75% ,,0,0,0,0
+,,d.     Plus de 75% ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,12,Le maire tient-il des consultations avec le public en tant qu'élément de son processus d’identification des axes prioritaires du budget?  ,,,,,
+,,a.  Oui ,,See c.,,,
+,,b.  Non ,,0,0,0,0
+,,"c.  Si oui, quelle genre de consultations avec le public sont tenues ",,0,0,0,0
+,,1)     participation active des citoyens au cours des discussions du conseil local ,,0,0,0,0
+,,2)     les conseils locaux discutent le budget avec des citoyens dans leurs districts ,,0,0,0,0
+,,3)     autre (svp produire un descriptif) :,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,13,"Pour le rapport en milieu d'année sur des dépenses effectives actuelles présenté au public par le maire, combien de temps s'écoule typiquement entre la fin de la période de reportage et la présentation du rapport au public (par exemple, le rapport a été présenté au public moins de 4 semaines après la fin du deuxième trimestre)?  ",,,,,
+,,a.  Le rapport est publié 3 mois ou moins après la fin de la période. ,,0,0,0,0
+,,b.  Le rapport est publié 6 mois ou moins (mais plus de 3 mois) après la fin de la période. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 6 mois après la fin de la période. ,,0,0,0,0
+,,d.  Le rapport n'est pas publié. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
+,14,Combien de temps après la fin de l'année budgétaire le maire présente au public un rapport de fin d'année qui discute les résultats réels du budget pendant l'année?  ,,,,,
+,,a.  Le rapport est publié six mois ou moins après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Le rapport est publié12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,c.  Le rapport est publié plus de 12 mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,d.  Le maire ne publie pas un rapport de fin d'année. ,,0,0,0,0
+,,Pas applicable/autre (svp produire un commentaire). Commentaire : ,,,,,
+,15,Combien de temps après la fin de l'exercice budgétaire les dépenses annuelles finales sont auditées et présentés au public?  ,,,,,
+,,a.  Des comptes d'audit finals sont publiés au moins six mois après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,b.  Des comptes d'audit finals sont publiés pendant 12 mois ou moins (mais plus de six mois) après la fin de l'exercice budgétaire. ,,0,0,0,0
+,,"c.  Des comptes d'audit finals sont publiés plus de 12 mois, mais dans les 24 mois qui suivent de la fin de l'exercice budgétaire. ",,0,0,0,0
+,,d.  Des comptes d'audit finals ne sont pas accomplis dans les 24 mois à compter de la fin de l'exercice budgétaire ou eux ne sont pas présentés au public. ,,0,0,0,0
+,,Pas applicable/autres (svp produire un commentaire). Commentaire : ,,,,,
