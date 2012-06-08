@@ -1,0 +1,20 @@
+{
+    "proj": { 
+        "id": "laea"
+    },
+   "bounds": {
+        "mode": "bbox", 
+        "data": [8.4,1.6,16.2,12.9]
+    },
+    "layers": [
+    { 
+        "id": "commune",
+        "src": "communes_simplified.shp",
+        "simplify": 0,
+        "attributes": ["commune", "arrondisse", "departemen", "region"]
+    }
+    ],
+    "export": { 
+        "width": 800
+    }
+}
