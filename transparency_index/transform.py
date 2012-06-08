@@ -27,6 +27,14 @@ Q2_FRAGMENTS = (('connue au moins un mois', 'month_ahead'),
                 ('tenue pour discuter', 'press_conference'),
                 ('conseillers municipaux', 'local_councilors'))
 
+BUDGET_DOCS = {
+    u"Budget adopt\xe9": "adopted",
+    u'R\xe9sum\xe9 du Budget': "summary",
+    u'Rapport en Milieu d\x92ann\xe9e': "mid_year",
+    u'Rapport de fin d\x92ann\xe9e': "end_of_year",
+    u'Rapport d\x92audit': "audit_report"
+    }
+
 
 def csvdata():
     data = []
@@ -65,17 +73,20 @@ def transform():
     data = {}
     scores = scoredata()
     for row in csvdata():
-        p = row['Place_Normalized'].decode('utf-8')
+        unip = row['Place_Normalized'].decode('utf-8')
+        p = unip #unip.encode('ascii', 'ignore')
         if not p in data:
-            data[p] = {'score': scores[p]['bti_score'],
-                       'rank': scores[p]['bti_rank'],
+            data[p] = {'score': scores[unip]['bti_score'],
+                       'rank': scores[unip]['bti_rank'],
+                       'key': unip,
                        'questions': {},
                        'documents': {},
                        'sheet_name': row['Place']}
         q = int(row['Question'])
         if q == 1:
-            doc = row['Comments'].split(' ', 1)[-1].strip().decode('utf-8')
-            data[p]['documents'][doc] = {}
+            doc = doc_title = row['Comments'].split(' ', 1)[-1].strip().decode('utf-8')
+            doc = BUDGET_DOCS[doc]
+            data[p]['documents'][doc] = {'title': doc_title}
             for col, flag in Q1_RELEASES:
                 if row[col] == '1':
                     data[p]['documents'][doc][flag] = True
@@ -88,6 +99,7 @@ def transform():
                 if frag in flag:
                     flag = name
             for col, doc in Q2_COLUMNS:
+                doc = BUDGET_DOCS[doc]
                 #print [col, doc]
                 if not doc in data[p]['documents']:
                     data[p]['documents'][doc] = {}
@@ -113,6 +125,22 @@ def transform():
                 data[p]['questions'][q]['comment'] = row['Answer']
             elif row['Answer'].strip() == '1':
                 data[p]['questions'][q]['answer'] = row['Comments']
+
+    for council in data:
+        for document in data[council]['documents']:
+            #print [council, document]
+            flags = data[council]['documents'][document]
+            if flags['public']:
+                score = 4
+            elif flags['sur_demande']:
+                score = 3
+            elif flags['non_public']:
+                score = 2
+            elif flags['non_produit']:
+                score = 1
+            else:
+                score = 0
+            data[council]['documents'][document]['score'] = score
     return data
 
 if __name__ == '__main__':

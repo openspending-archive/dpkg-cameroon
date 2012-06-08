@@ -3,7 +3,7 @@
         "id": "laea"
     },
    "bounds": {
-        "mode": "bbox", 
+        "mode": "bbox",
         "data": [8.4,1.6,16.2,12.9]
     },
     "layers": [
